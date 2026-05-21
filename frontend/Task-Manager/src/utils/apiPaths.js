@@ -1,4 +1,4 @@
-export const BASE_URL = "https://taskpilot-backend-3cau.onrender.com/";
+export const BASE_URL = "https://taskpilot-backend-3cau.onrender.com";
 // export const BASE_URL = "https://employee-task-management-system-pro.vercel.app";
 // utils/apiPaths.js
 export const API_PATHS = {
